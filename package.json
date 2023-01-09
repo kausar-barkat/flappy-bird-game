@@ -1,0 +1,27 @@
+{
+  "name": "flappy-bird-game",
+  "version": "1.0.0",
+  "description": "RX JS Flappy Bird Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kausar-barkat/flappy-bird-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kausar-barkat/flappy-bird-game/issues"
+  },
+  "homepage": "https://github.com/kausar-barkat/flappy-bird-game#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "rxjs": "^7.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
